@@ -11,6 +11,10 @@
   <a href="https://stemmy287.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" width="100" alt="telegram-badge"/>
   </a>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
  
